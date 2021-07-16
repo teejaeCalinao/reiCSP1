@@ -11,7 +11,29 @@ h1,h2,h3,h4,h5{
 	font-family: 'Benne', serif;
 }
 
+#landing {
+	background-image: url(https://images.pexels.com/photos/6498994/pexels-photo-6498994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	/*It stretch our bg image to cover the area of the element*/
+	background-size: cover;
+	/*no repeat makes sure that our bg image will not be repeated in the element.*/
+	background-repeat: no-repeat;
+	/*positions our background image to the center*/
+	background-position: center;
+}
+
 #gmap_canvas {
 	height: 60vh;
 	width: 100%;
+}
+
+#tools {
+
+	background-image: url(https://images.pexels.com/photos/5086477/pexels-photo-5086477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	/*It stretch our bg image to cover the area of the element*/
+	background-size: cover;
+	/*no repeat makes sure that our bg image will not be repeated in the element.*/
+	background-repeat: no-repeat;
+	/*positions our background image to the center*/
+	background-position: center;
+
 }
