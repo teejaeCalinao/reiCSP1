@@ -19,6 +19,8 @@ h1,h2,h3,h4,h5{
 	background-repeat: no-repeat;
 	/*positions our background image to the center*/
 	background-position: center;
+
+	height: 80vh;
 }
 
 #gmap_canvas {
