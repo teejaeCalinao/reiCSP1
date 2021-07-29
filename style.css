@@ -20,7 +20,6 @@ h1,h2,h3,h4,h5{
 	/*positions our background image to the center*/
 	background-position: center;
 
-	height: 80vh;
 }
 
 #gmap_canvas {
